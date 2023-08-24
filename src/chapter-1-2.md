@@ -1,5 +1,3 @@
-Benefits of Incorporating AI into Asset Tracking
-======================================================================================================
 
 In this chapter, we will introduce the concept of AI-enabled asset tracking and explore the benefits of incorporating AI technology into inventory management and logistics operations.
 

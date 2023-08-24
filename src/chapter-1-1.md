@@ -1,5 +1,3 @@
-Understanding the Role of AI in Inventory Management and Logistics
-========================================================================================================================
 
 In this chapter, we will introduce the concept of AI-enabled asset tracking and explore the role of AI technology in inventory management and logistics operations.
 

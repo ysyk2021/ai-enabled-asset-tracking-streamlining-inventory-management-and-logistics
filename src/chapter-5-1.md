@@ -1,5 +1,3 @@
-Optimizing Routes and Delivery Schedules with AI
-========================================================================================
 
 In this chapter, we will explore how AI technology can enhance logistics through optimizing routes and delivery schedules with AI. We will discuss the benefits of using AI for route optimization and delivery scheduling, as well as some of the key considerations when implementing these technologies.
 

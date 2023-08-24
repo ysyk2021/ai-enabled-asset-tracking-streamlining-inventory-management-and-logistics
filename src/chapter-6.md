@@ -1,5 +1,3 @@
-Chapter 6: Improving Customer Service with AI
-=============================================
 
 In this chapter, we will explore how AI technology can improve customer service in inventory management and logistics. We will discuss the benefits of using AI for real-time shipment tracking and updates, as well as AI-powered customer support and communication.
 

@@ -1,5 +1,3 @@
-Automated Inventory Control using AI
-===========================================================================
 
 In this chapter, we will explore how AI technology can help manage inventory through automated inventory control. We will discuss the benefits of using AI for automated inventory control, as well as some of the key considerations when implementing these technologies.
 

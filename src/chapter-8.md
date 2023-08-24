@@ -1,5 +1,3 @@
-Chapter 8: Future Trends and Opportunities for AI-Enabled Asset Tracking
-========================================================================
 
 As the use of AI-enabled asset tracking systems continues to grow, the future holds many exciting opportunities for businesses looking to streamline their inventory management and logistics operations. This chapter explores some emerging trends in AI for inventory management and logistics, as well as how companies can unlock new opportunities with AI.
 

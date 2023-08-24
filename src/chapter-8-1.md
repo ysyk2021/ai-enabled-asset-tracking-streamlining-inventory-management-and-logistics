@@ -1,5 +1,3 @@
-Emerging Trends in AI for Inventory Management and Logistics
-======================================================================================================================================
 
 In recent years, the use of AI-enabled asset tracking systems has become increasingly popular among companies looking to streamline their inventory management and logistics operations. As technology continues to advance, there are several emerging trends in AI that are set to shape the future of asset tracking.
 

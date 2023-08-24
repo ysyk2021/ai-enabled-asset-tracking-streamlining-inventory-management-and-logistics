@@ -1,5 +1,3 @@
-Importance of Ethical and Legal Guidelines for AI
-============================================================================================================================
 
 In this chapter, we will discuss the ethical and legal considerations that organizations should keep in mind when implementing AI-enabled asset tracking solutions. We will explore the importance of ethical and legal guidelines for AI and provide guidance on how to ensure that these guidelines are followed.
 

@@ -1,5 +1,3 @@
-Chapter 7: Ethical and Legal Considerations for AI-Enabled Asset Tracking
-=========================================================================
 
 As the use of AI-enabled asset tracking systems becomes more widespread, it is important to consider the ethical and legal implications of this technology. In this chapter, we will explore why ethical and legal guidelines are important for AI, and how businesses can mitigate risks and ensure compliance.
 

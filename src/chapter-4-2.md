@@ -1,5 +1,3 @@
-Leveraging Machine Learning for Demand Forecasting
-=========================================================================================
 
 In this chapter, we will explore how AI technology can help manage inventory through machine learning for demand forecasting. We will discuss the benefits of using machine learning for demand forecasting, as well as some of the key considerations when implementing these technologies.
 

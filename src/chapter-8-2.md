@@ -1,5 +1,3 @@
-Unlocking New Opportunities with AI
-=============================================================================================================
 
 As businesses continue to adopt AI-enabled asset tracking systems, the future holds many exciting opportunities for improving inventory management and logistics. In this chapter, we will explore some emerging trends in AI for asset tracking, as well as how businesses can unlock new opportunities with AI.
 

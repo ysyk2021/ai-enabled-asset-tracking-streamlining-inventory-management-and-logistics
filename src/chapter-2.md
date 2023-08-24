@@ -1,5 +1,3 @@
-Chapter 2: Tools and Technologies for AI-Driven Asset Tracking
-==============================================================
 
 In this chapter, we will discuss the tools and technologies available for AI-driven asset tracking in inventory management and logistics. We will also provide guidance on selecting the right tools for your business needs.
 
