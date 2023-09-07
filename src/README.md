@@ -10,3 +10,7 @@ The following chapters will cover a range of topics related to AI-enabled asset 
 Whether you are a logistics manager, inventory control specialist, or simply someone interested in asset tracking and inventory management, "AI-Enabled Asset Tracking" provides valuable insights and practical strategies for leveraging AI to enhance your operations. By the end of this book, you will have a deep understanding of the role of AI in asset tracking and inventory management and how it can be used to drive more efficient and effective logistics operations.
 
 MingHai Zheng is the founder of zhengpublishing.com and lives in Wuhan, China. His main publishing areas are business, management, self-help, computers and other emerging foreword fields.
+
+Please Buy Me a Coffee to support us if you think this book is valuable to you. click this link:
+
+https://www.buymeacoffee.com/minghaizheng
